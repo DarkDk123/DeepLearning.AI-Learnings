@@ -13,4 +13,4 @@ like **Chains, Prompt Templates, LLMs, Vectorstores, basic Agents etc.**
 
 **Code :** [Here](./LangChain%20for%20LLM%20Apps/)
 
-**Learning duration :** 9 Nov - (To be soon) 2024
+**Learning duration :** ***9 Nov - 12 Dec 2024*** *(Much time due to Exams & other courses!)*
